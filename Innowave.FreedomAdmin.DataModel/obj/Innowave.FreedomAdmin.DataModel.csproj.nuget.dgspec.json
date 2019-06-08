@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Deepu\\Desktop\\Innowave.FreedomAdmin.Api (1)\\Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.DataModel\\Innowave.FreedomAdmin.DataModel.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Deepu\\Desktop\\Innowave.FreedomAdmin.Api (1)\\Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.DataModel\\Innowave.FreedomAdmin.DataModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Deepu\\Desktop\\Innowave.FreedomAdmin.Api (1)\\Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.DataModel\\Innowave.FreedomAdmin.DataModel.csproj",
+        "projectName": "Innowave.FreedomAdmin.DataModel",
+        "projectPath": "c:\\Users\\Deepu\\Desktop\\Innowave.FreedomAdmin.Api (1)\\Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.DataModel\\Innowave.FreedomAdmin.DataModel.csproj",
+        "packagesPath": "C:\\Users\\Deepu\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Deepu\\Desktop\\Innowave.FreedomAdmin.Api (1)\\Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.DataModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Deepu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

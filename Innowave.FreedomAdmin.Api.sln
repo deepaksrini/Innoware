@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innowave.FreedomAdmin.Api", "Innowave.FreedomAdmin.Api\Innowave.FreedomAdmin.Api.csproj", "{19FF4667-73AE-4D54-8877-E68837B24ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innowave.FreedomAdmin.Business", "Innowave.FreedomAdmin.Business\Innowave.FreedomAdmin.Business.csproj", "{2E111382-6C3B-4E54-9F44-ABF496FE6242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innowave.FreedomAdmin.DataModel", "Innowave.FreedomAdmin.DataModel\Innowave.FreedomAdmin.DataModel.csproj", "{9DEBFD9A-52F6-4EAB-9961-5CA0B6B7BE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innowave.FreedomAdmin.DataContext", "Innowave.FreedomAdmin.DataContext\Innowave.FreedomAdmin.DataContext.csproj", "{9CFC760C-675D-4135-AF12-A0E201AF6661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FF4667-73AE-4D54-8877-E68837B24ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FF4667-73AE-4D54-8877-E68837B24ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FF4667-73AE-4D54-8877-E68837B24ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FF4667-73AE-4D54-8877-E68837B24ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E111382-6C3B-4E54-9F44-ABF496FE6242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E111382-6C3B-4E54-9F44-ABF496FE6242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E111382-6C3B-4E54-9F44-ABF496FE6242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E111382-6C3B-4E54-9F44-ABF496FE6242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEBFD9A-52F6-4EAB-9961-5CA0B6B7BE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEBFD9A-52F6-4EAB-9961-5CA0B6B7BE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEBFD9A-52F6-4EAB-9961-5CA0B6B7BE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEBFD9A-52F6-4EAB-9961-5CA0B6B7BE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFC760C-675D-4135-AF12-A0E201AF6661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFC760C-675D-4135-AF12-A0E201AF6661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFC760C-675D-4135-AF12-A0E201AF6661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFC760C-675D-4135-AF12-A0E201AF6661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF53670F-7528-4FF4-B565-318E433B6DEE}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Innowave.FreedomAdmin.Api\\Innowave.FreedomAdmin.Api.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Innowave.FreedomAdmin.Api\\
+		SccProjectUniqueName2 = Innowave.FreedomAdmin.Business\\Innowave.FreedomAdmin.Business.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Innowave.FreedomAdmin.Business\\
+		SccProjectUniqueName3 = Innowave.FreedomAdmin.DataContext\\Innowave.FreedomAdmin.DataContext.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = Innowave.FreedomAdmin.DataContext\\
+		SccProjectUniqueName4 = Innowave.FreedomAdmin.DataModel\\Innowave.FreedomAdmin.DataModel.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = Innowave.FreedomAdmin.DataModel\\
+	EndGlobalSection
+EndGlobal
